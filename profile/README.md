@@ -14,15 +14,5 @@ The lines of work aim to add value to the projects so that they have a practical
 - 👩‍🏫 Professors with impact - Because we have realized that the way our students think has changed, we are transforming our approach to knowledge transfer.
 - 📫 How to reach us: [`medialab@uniovi.es`](medialab@uniovi.es)
 
-### Github Stats :shipit:
 
-<br/>
-<div align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=medialabuniovin&show_icons=true&theme=dracula&hide_title=true">
-</div>
-<br/>
-<br/>
- <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medialabuniovi&langs_count=8&show_icons=true&theme=dracula">
-</div>
 
