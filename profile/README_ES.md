@@ -4,7 +4,7 @@
 
 </div>
 
-###¡Hola, somos MediaLab! 👋
+### ¡Hola, somos MediaLab! 👋
 MediaLab es un laboratorio universitario de tecnología y diseño que surgió en 2018 a partir de la colaboración entre el Ayuntamiento de Gijón, Gijón Impulsa y la Universidad de Oviedo. Su sede se encuentra en la Escuela de Ingeniería de Gijón, y su principal objetivo es acercar las nuevas tecnologías y metodologías de creación de proyectos a las personas.
 
 Las líneas de trabajo buscan agregar valor a los proyectos para que tengan una aplicación práctica en el mercado y en la sociedad, así como la creación de empresas o startups y/o la publicación de investigaciones. Cada línea de trabajo está liderada por un profesor de la Universidad de Oviedo y, a su vez, cada línea consta de proyectos más específicos donde los estudiantes pueden realizar sus trabajos de fin de grado, trabajos de fin de máster o tesis doctorales.
