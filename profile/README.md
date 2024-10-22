@@ -1,3 +1,8 @@
+<div align="right">
+
+[![english](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png)](./README.md) | [![spanish](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png)](./README_ES.md)
+
+
 ### Hi there, it's MediaLab! 👋
 
 MediaLab is a university laboratory of technology and design that emerged in 2018 from the collaboration between the City Council of Gijón, Gijón Impulsa, and the University of Oviedo. Its headquarters are located at the School of Engineering of Gijón, and its main objective is to bring new technologies and project creation methodologies closer to people.
