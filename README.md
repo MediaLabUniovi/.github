@@ -1,3 +1,9 @@
+<div align="right">
+
+[![english](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png)](./README.md) | [![spanish](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png)](./README_ES.md)
+
+</div>
+
 ### Hi there, it's MediaLab! 👋
 
 MediaLab is a university laboratory of technology and design that emerged in 2018 from the collaboration between the City Council of Gijón, Gijón Impulsa, and the University of Oviedo. Its headquarters are located at the School of Engineering of Gijón, and its main objective is to bring new technologies and project creation methodologies closer to people.
@@ -13,4 +19,6 @@ The lines of work aim to add value to the projects so that they have a practical
 - 💭 IF         -  IF materializes in interdisciplinary work among individuals with engineering backgrounds concerned about the ethical aspects of technology and its social impacts, and individuals studying the relationships between science, technology, and society from a philosophical perspective
 - 👩‍🏫 Professors with impact - Because we have realized that the way our students think has changed, we are transforming our approach to knowledge transfer.
 - 📫 How to reach us: [`medialab@uniovi.es`](medialab@uniovi.es)
+
+
 
