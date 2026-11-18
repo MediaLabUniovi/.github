@@ -15,6 +15,8 @@ Antes de crear cualquier carpeta o archivo, el agente **DEBE clasificar el proye
 - **Tipo C: Hardware Puro (Hardware-Only):**
   Diseños electrónicos, PCBs o sistemas mecánicos sin firmware (`schematics/`, `gerber/`, `datasheets/`). **Queda estrictamente prohibido crear la carpeta `software/`**.
 
+*Nota sobre plantillas:* Únicamente en repositorios base o plantillas (`template-*`), se autoriza el uso de `.gitkeep` en subdirectorios vacíos iniciales (`schematics/`, `datasheets/`) para preservar la jerarquía del árbol en Git.
+
 ---
 
 ## 2. Principios de Estilo y Formato
@@ -73,6 +75,10 @@ Si surge una limitación técnica, periférico no operativo o función pendiente
    gh issue create --title "Contexto técnico directo" --body-file temp_issue.md
    ```
 2. Registrar el issue en la sección `## Seguimiento del Proyecto (GitHub Issues)` del `README.md` de la raíz.
+3. Eliminar de inmediato el archivo temporal:
+   ```bash
+   rm temp_issue.md
+   ```
 
 ### 4.3. Resolución y Cierre Automático
 - Cuando el agente solucione el problema, debe incluir en el mensaje de commit la palabra clave estándar: `fix(modulo): descripcion (Closes #X)`.
@@ -138,13 +144,17 @@ Nombre-Proyecto/
 └── software/            # Código fuente, entorno de compilación y controladores
 \`\`\`
 
-### [📁 Hardware](hardware/)
+### Hardware
+[📁 Submódulo Hardware](hardware/)
+
 Contiene la documentación técnica de la placa y componentes físicos:
 - **Esquemático oficial en PDF** del circuito electrónico.
 - **Hojas de datos (Datasheets)** de los componentes clave.
 - Tabla detallada de pines y asignaciones de periféricos en [`hardware/README.md`](hardware/README.md).
 
-### [📁 Software](software/)
+### Software
+[📁 Submódulo Software](software/)
+
 Contiene el código fuente completo y el entorno de compilación:
 - **Firmware / Lógica principal:** Implementación en [Lenguaje] bajo [Entorno/Framework].
 - **Protocolos y periféricos:** Descripción de comunicaciones y algoritmos críticos.
