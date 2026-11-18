@@ -29,7 +29,4 @@ Este repositorio aloja las normas y configuraciones centralizadas de MediaLabUni
 - [**Reglas para Agentes de IA (`AGENTS.md`)**](./AGENTS.md): Reglas canónicas operativas para agentes autónomos y asistentes.
 - [**Guía de Estructura y Formateo de Proyectos (`NORMAS_PROYECTOS_AGENTES.md`)**](./NORMAS_PROYECTOS_AGENTES.md): Estándar de tipología, arquitectura modular (`hardware/` y `software/`), seguridad contra fuga de secretos, Conventional Commits y gestión de GitHub Issues.
 - [**Instrucciones de Organización para GitHub Copilot (`.github/copilot-instructions.md`)**](./.github/copilot-instructions.md): Directrices aplicadas automáticamente a nivel de organización.
-
-
-
-
+- [**Plantilla Oficial de Proyectos (`template-embedded`)**](https://github.com/MediaLabUniovi/template-embedded): Repositorio plantilla listo para crear proyectos IoT/Embedded con 1 clic.
