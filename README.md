@@ -20,5 +20,16 @@ The lines of work aim to add value to the projects so that they have a practical
 - 👩‍🏫 Professors with impact - Because we have realized that the way our students think has changed, we are transforming our approach to knowledge transfer.
 - 📫 How to reach us: [`medialab@uniovi.es`](medialab@uniovi.es)
 
+---
+
+### Estándares y Directrices de Desarrollo con IA
+
+Este repositorio aloja las normas y configuraciones centralizadas de MediaLabUniovi para el desarrollo de proyectos y la asistencia de agentes de IA:
+
+- [**Reglas para Agentes de IA (`AGENTS.md`)**](./AGENTS.md): Reglas canónicas operativas para agentes autónomos y asistentes.
+- [**Guía de Estructura y Formateo de Proyectos (`NORMAS_PROYECTOS_AGENTES.md`)**](./NORMAS_PROYECTOS_AGENTES.md): Estándar de tipología, arquitectura modular (`hardware/` y `software/`), seguridad contra fuga de secretos, Conventional Commits y gestión de GitHub Issues.
+- [**Instrucciones de Organización para GitHub Copilot (`.github/copilot-instructions.md`)**](./.github/copilot-instructions.md): Directrices aplicadas automáticamente a nivel de organización.
+
+
 
 
